@@ -1,0 +1,53 @@
+{
+  "name": "nodebb-plugin-share-qqfriend",
+  "version": "3.0.3",
+  "description": "NodeBB qqfriend Share",
+  "main": "library.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeslieMay/NodeBB-Plugin-QQFriend-share.git"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "qqzone",
+    "share"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeslieMay/NodeBB-Plugin-QQFriend-share.git/issues"
+  },
+  "dependencies": {},
+  "nbbpm": {
+    "compatibility": "^1.0.0"
+  },
+  "homepage": "https://github.com/LeslieMay/NodeBB-Plugin-QQFriend-share.git",
+  "maintainers": [
+    {
+      "name": "leslie",
+      "email": "zhangyujieswu@163.com"
+    }
+  ],
+  "_id": "NodeBB-Plugin-QQFriend-share@3.0.3",
+  "dist": {
+    "shasum": "3a435d71f3487fe16a8c83c70068625d4857fefd",
+    "tarball": "https://registry.npmjs.org/nodebb-plugin-share-vk/-/nodebb-plugin-share-vk-3.0.3.tgz"
+  },
+  "_from": "NodeBB-Plugin-QQFriend-share@latest",
+  "_resolved": "https://registry.npmjs.org/nodebb-plugin-share-vk/-/nodebb-plugin-share-vk-3.0.3.tgz",
+  "gitHead": "b34e1fbb6b7448e0a1f4ccc78a7a718b70534b13",
+  "scripts": {},
+  "_shasum": "3a435d71f3487fe16a8c83c70068625d4857fefd",
+  "_npmVersion": "2.7.4",
+  "_nodeVersion": "0.12.2",
+  "_npmUser": {
+    "name": "leslie",
+    "email": "zhangyujieswu@163.com"
+  },
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/nodebb-plugin-share-vk-3.0.3.tgz_1459620261527_0.37668523262254894"
+  },
+  "directories": {},
+  "readme": "ERROR: No README data found!"
+}

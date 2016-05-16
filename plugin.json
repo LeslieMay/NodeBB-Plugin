@@ -1,0 +1,13 @@
+{
+  "id": "nodebb-plugin-share-qqfriend",
+  "name": "NodeBB QQZone Share",
+  "description": "NodeBB Plugin that allows users to share post via their QQfriend page.",
+  "url": "https://github.com/LeslieMay/NodeBB-Plugin-QQFriend-share.git",
+  "library": "./library.js",
+  "scripts": [
+      "public/src/client.js"
+  ],
+  "hooks": [
+    { "hook": "filter:social.posts", "method": "addNetwork" }
+  ]
+}
